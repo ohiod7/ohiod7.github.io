@@ -325,7 +325,7 @@ defaults:
 
 # ----- THEME & SKIN -----
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: "dirt"
 
 # ----- FONTS -----
 # Headers / titles
