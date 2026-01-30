@@ -326,5 +326,15 @@ defaults:
       share: true
       related: true
 
+      defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      header:
+        nav: true
+
+
 header:
   nav: true
