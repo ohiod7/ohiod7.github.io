@@ -10,7 +10,6 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -23,12 +22,6 @@ name                     : "Your Name"
 description              : "District 7 of the Ohio FFA Association Archives, Records, and Updates"
 
 theme: minimal-mistakes-jekyll
-
-plugins:
-  - jekyll-include-cache
-
-navigation:
-  main: main
 
 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -330,7 +323,3 @@ defaults:
       header:
         nav: true
 
-
-
-header:
-  nav: true
