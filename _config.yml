@@ -323,3 +323,34 @@ defaults:
       header:
         nav: true
 
+# ----- THEME & SKIN -----
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "sunrise"
+
+# ----- FONTS -----
+# Headers / titles
+header_font:
+  family: "Merriweather, serif"
+  weight: 700
+  style: normal
+
+# Body text
+body_font:
+  family: "Lato, sans-serif"
+  weight: 400
+  style: normal
+
+# ----- LOGO -----
+logo: "/assets/images/district-logo.png"  # replace with your logo path
+
+# ----- HEADER / NAV -----
+header:
+  nav: true
+  sticky: true
+  inverted: false
+
+# ----- ACCENT COLOR -----
+accent_color: "#FFA726"   # warm orange to match "sunrise" theme
+
+# Optional: add a subtle site-wide background highlight (like a soft gradient)
+# Add this later via _sass/custom.scss if desired
