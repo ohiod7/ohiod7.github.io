@@ -1,21 +1,24 @@
 main:
   - title: "Home"
     url: /
+
+  - title: "CDEs"
+    url: /cdes/
+
+  - title: "Proficiencies"
+    url: /proficiencies/
+
+  - title: "Officer Books"
+    url: /officer-books/
     
- - title: "CDEs"
-   url: /cdes/
-   
- - title: "Proficiencies"
-   url: /proficiencies/
-   
- - title: "Officer Books"
-   url: /officer-books/  
-   
- - title: "Meeting Minutes"
-   url: /meeting-minutes/
-   
- - title: "Forms & Calendars"
-   url: /forms-calendars/
-   
- - title: "About"
-   url: /about/
+  - title: "Forms & Calendars"
+    url: /forms-calendars/
+
+  - title: "Meeting Minutes"
+    url: /meeting-minutes/
+
+  - title: "Archive"
+    url: /archive/
+
+  - title: "About"
+    url: /about/
