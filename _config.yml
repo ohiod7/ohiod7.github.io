@@ -21,7 +21,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Your Name"
 description              : "District 7 of the Ohio FFA Association Archives, Records, and Updates"
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 
 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
