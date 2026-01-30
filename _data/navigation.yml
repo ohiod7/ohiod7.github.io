@@ -20,5 +20,8 @@ main:
   - title: "Archive"
     url: /archive/
 
+  - title: "Program Contacts"
+    url: /contacts/
+
   - title: "About"
     url: /about/
