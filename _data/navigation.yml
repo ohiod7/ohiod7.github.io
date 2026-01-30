@@ -1,15 +1,21 @@
 main:
   - title: "Home"
     url: /
+    
  - title: "CDEs"
    url: /cdes/
+   
  - title: "Proficiencies"
    url: /proficiencies/
+   
  - title: "Officer Books"
    url: /officer-books/  
+   
  - title: "Meeting Minutes"
    url: /meeting-minutes/
+   
  - title: "Forms & Calendars"
    url: /forms-calendars/
+   
  - title: "About"
    url: /about/
